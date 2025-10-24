@@ -1,0 +1,52 @@
+{
+  "brand": "Wisdom & Whimsy",
+  "foundation": {
+    "concept": "Clever but never condescending. Funny but not forced. Curious thinkers, content nerds, meme lovers and overthinkers with a sense of humor.",
+    "logo": {
+      "icon_concept": "A simple brain icon wearing glasses — with one side showing sparkles/lightbulb (idea), the other side a jester hat or a winking eye (whimsy).",
+      "font_style": {
+        "wisdom": "Merriweather (serif)",
+        "whimsy": "Poppins Rounded (or rounded handwritten)"
+      }
+    }
+  },
+  "palette": {
+    "primary": "#2C3E50",
+    "accent": "#E85C3A",
+    "secondary": "#F5B841",
+    "highlight": "#FF9B42",
+    "background": "#F8EBD9",
+    "neutral_dark": "#1E1E1E",
+    "neutral_light": "#FFFFFF"
+  },
+  "fonts": {
+    "heading": "Merriweather",
+    "subheading": "Poppins Rounded",
+    "body": "Inter"
+  },
+  "textures": {
+    "background": "paper-grain-soft",
+    "stroke_thickness": "2.5px",
+    "corner_radius": "16px"
+  },
+  "illustration_style": "flat doodle with soft outlines and warm paper tone",
+  "music_style": "acoustic + subtle tabla / jazz brushes",
+  "motion_style": "slide-in + bounce ease-out",
+  "visual_identity": {
+    "thumbnail_style": {
+      "split_screen": {
+        "left": "book, quote, clean visuals",
+        "right": "meme-style image, exaggerated expressions, illustrated characters"
+      },
+      "post_templates": {
+        "book_posts": {
+          "style": "soft gradients, white background, neat layout with graphic/quote"
+        },
+        "tweet_style": {
+          "style": "bold, meme-like boxes with emoji, fun fonts, loud colors"
+        }
+      }
+    }
+  },
+  "signoff": "In essence... Big thoughts, small chuckles."
+}
